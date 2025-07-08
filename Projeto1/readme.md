@@ -17,7 +17,7 @@ Este projeto tem como finalidade **exercitar e aprimorar o uso das ferramentas A
 
    > _"Cheguei - E aí meu amor, você aprendeu tudo? - Eu acho que não, vou ter que voltar amanhã"._
 
-   ![Print da transcrição](Projeto1/Imagens/Print%20da%20transcrição.png)
+   ![Print da transcrição](Imagens/Print%20da%20transcrição.png)
 
 ---
 
@@ -77,19 +77,19 @@ Este projeto tem como finalidade **exercitar e aprimorar o uso das ferramentas A
 
 ### 🖼️ Imagens
 
-![Primeiro Print](Projeto1/Imagens/AnaliseDeSentimento1.png)  
+![Primeiro Print](Imagens/AnaliseDeSentimento1.png)  
  _Este print mostra como foi enviado o texto para análise._
 
-![Segundo Print](Projeto1/Imagens/AnaliseDeSentimento2.png)  
+![Segundo Print](Imagens/AnaliseDeSentimento2.png)  
  _Mostra como a IA classificou o texto no geral e como a primeira sentença foi analisada corretamente._
 
-![Terceiro Print](Projeto1/Imagens/AnaliseDeSentimento3.png)  
+![Terceiro Print](Imagens/AnaliseDeSentimento3.png)  
  _A segunda sentença também foi interpretada de forma correta. No entanto, na terceira, apenas o último emoji (coração) foi compreendido._
 
-![Quarto Print](Projeto1/Imagens/AnaliseDeSentimento4.png)  
+![Quarto Print](Imagens/AnaliseDeSentimento4.png)  
  _A sentença 4 foi analisada de forma incorreta. O nível de confiança atribuído pela IA também foi bem baixo._
 
-![Quinto Print](Projeto1/Imagens/AnaliseDeSentimento5.png)  
+![Quinto Print](Imagens/AnaliseDeSentimento5.png)  
  _Exibição do texto original completo que foi analisado._
 
 ---
